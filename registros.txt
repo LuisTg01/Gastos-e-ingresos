@@ -1,0 +1,5 @@
+<<<<<< REGISTROS DE INGRESOS Y GASTOS >>>>>>>>
+
+['2023', 'Jan', '15/1/2023', 500.0, 'ingreso', 'SUELDO']
+['2023', 'Jan', '15/1/2023', 100.0, 'gasto', 'Comida']
+['2023', 'Jan', '15/1/2023', 500.0, 'ingreso', 'SUELDO']
